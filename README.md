@@ -1,1 +1,1 @@
-# sharing-github
+# Verzeo ML Major Project
